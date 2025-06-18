@@ -4,5 +4,5 @@
 
 ## Desenvolvimento de Script ou Ferramenta Auxiliar
 - Permite a conversão da moeda virtual Riot Points (RP) do Jogo chamado League of Legends em reais. 
-	- Repositório: https://github.com/rudneyggf/contribuicao_libreoffice
-	- Publicação em site da comunidade: https://extensions.libreoffice.org/en/extensions/show/99411
+	- [Repositório](https://github.com/rudneyggf/contribuicao_libreoffice)
+	- [Publicação em site da comunidade](https://extensions.libreoffice.org/en/extensions/show/99411)
