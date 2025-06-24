@@ -36,8 +36,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 - Tutorial básico de utilização do Neovim. ([YouTube](https://youtu.be/VH-XSRFzQW4)). Felipe Silva
 - Demonstração do plug-in de vídeos para o Neovim. ([YouTube](https://youtu.be/5SkfxnXbDtI)). [Pedro Julius](https://github.com/Pedro-SousaM)
 
-## Desenvolvimento de Script ou Ferramenta Auxiliar (0)
-
+## Desenvolvimento de Script ou Ferramenta Auxiliar (1)
+  - Macro em Python para o LibreOffice Calc que converte Riot points do jogo League of Legends (RP) em Reais (BRL), com base em uma taxa de conversão média. ([Página no LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/99411) - [@rudneyggf](https://github.com/rudneyggf))
 ## Criar ou Melhorar Testes Automatizados (0)
 
 Testes de Regressão para PROCV/VLOOKUP no LibreOffice Calc ([Pull Request via Gerrit](https://gerrit.libreoffice.org/c/core/+/186866) - [@lipefemoura](https://github.com/lipefemoura))
