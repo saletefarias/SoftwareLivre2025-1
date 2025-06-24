@@ -32,6 +32,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Criar ou Melhorar Testes Automatizados (0)
 
+Testes de Regressão para PROCV/VLOOKUP no LibreOffice Calc ([Pull Request via Gerrit](https://gerrit.libreoffice.org/c/core/+/186866) - [@lipefemoura](https://github.com/lipefemoura))
+
 ## Propor Melhorias na Experiência do Usuário (UX) (0)
 
 ## Apoio à Comunidade (0)
