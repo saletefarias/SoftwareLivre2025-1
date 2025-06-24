@@ -29,7 +29,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Produção de Conteúdo Audiovisual ou Série de Posts (0)
 
 ## Desenvolvimento de Script ou Ferramenta Auxiliar (1)
-  Macro em Python para o LibreOffice Calc que converte Riot points do jogo League of Legends (RP) em Reais (BRL), com base em uma taxa de conversão média. ([Página no LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/99411) - [@rudneyggf](https://github.com/rudneyggf))
+  - Macro em Python para o LibreOffice Calc que converte Riot points do jogo League of Legends (RP) em Reais (BRL), com base em uma taxa de conversão média. ([Página no LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/99411) - [@rudneyggf](https://github.com/rudneyggf))
 ## Criar ou Melhorar Testes Automatizados (0)
 
 ## Propor Melhorias na Experiência do Usuário (UX) (0)
