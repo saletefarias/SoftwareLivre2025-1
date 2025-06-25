@@ -33,7 +33,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Participar de Organização ou Evento (0)
 
-## Produção de Conteúdo Audiovisual ou Série de Posts (3)
+## Produção de Conteúdo Audiovisual ou Série de Posts (4)
 
 - Tutorial de instalação do Neovim para Windows. ([YouTube](https://youtu.be/Zj2KCDz4p1I)). Felipe Silva
 - Tutorial básico de utilização do Neovim. ([YouTube](https://youtu.be/VH-XSRFzQW4)). Felipe Silva
@@ -48,7 +48,7 @@ Testes de Regressão para PROCV/VLOOKUP no LibreOffice Calc ([Pull Request via G
 
 ## Propor Melhorias na Experiência do Usuário (UX) (0)
 
-## Apoio à Comunidade (1)
+## Apoio à Comunidade (2)
 
 - Site sobre o projeto em português, com guias de instalação. ([Neovim Livre](https://neovim-software-livre.vercel.app/)). [@jjuniorbrasil](https://github.com/jjuniorbrasil)
 - Material de suporte com Perguntas Frequêntes relacionadas ao Notepad++ ([FAQ](https://github.com/paulo16-bit/notepadpp-guia-instalacao-ptbr) - [raquelsch1](https://github.com/raquelsch1))
