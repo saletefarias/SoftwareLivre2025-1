@@ -18,15 +18,17 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Melhorar documentação (0)
 
-## Realizar Tradução (1)
+## Realizar Tradução (2)
 
 - Documentação de Instalação ([Documentação](https://github.com/jjuniorbrasil/neovim-software-livre/tree/main/public/markdown/install-pt-br)). Guilherme José
+- Tradução de uma parte da documentação do Anki (Fields/Campos) ([translate fields.md #20](https://github.com/mizerablebr/anki-manual/pull/20)) - ([@HevellynBarros](https://github.com/hevellynb))
 
 ## Corrigir bug (0)
 
 ## Adicionar pequena funcionalidade (1)
 
 - Permite que seja possível ver vídeos do YouTube dentro do próprio software do Neovim. ([Repositório do projeto do Plug-in](https://github.com/Pedro-SousaM/Neovim-Youtube-Plugin/tree/main)). [Pedro Julius](https://github.com/Pedro-SousaM)
+- Adição de card com separação clara dos elementos (frase, tradução, pinyin, imagem)([@nathaliafroz](https://github.com/nathaliafroz/anki-mandarim-template))
 
 ## Participar de Organização ou Evento (0)
 
@@ -42,7 +44,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 Testes de Regressão para PROCV/VLOOKUP no LibreOffice Calc ([Pull Request via Gerrit](https://gerrit.libreoffice.org/c/core/+/186866) - [@lipefemoura](https://github.com/lipefemoura))
 
-## Propor Melhorias na Experiência do Usuário (UX) (0)
+## Propor Melhorias na Experiência do Usuário (UX) (1)
+- Reformulação do design do card e adapção a dispositivos moveis ([@nathaliafroz](https://github.com/nathaliafroz/anki-mandarim-template))
 
 ## Apoio à Comunidade (1)
 
