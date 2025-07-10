@@ -13,3 +13,8 @@
 	- [Repositório](https://github.com/lipefemoura/testes-vlookup-libreoffice-calc.git)
 	- [Publicação em site da comunidade](https://gerrit.libreoffice.org/c/core/+/186866)
 
+## Produção de conteúdo audiovisual e Série de posts
+ - [Passo a passo para fazer o download do Libre Office](https://youtu.be/EhDYmniA0mE)
+ - [Guia prático do Libre Office Cálc](https://www.canva.com/design/DAGpVO-VoAk/a5tyPQ2k5WEDyykldLI-ig/view?utm_content=DAGpVO-VoAk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07c2950ab7)
+
+
