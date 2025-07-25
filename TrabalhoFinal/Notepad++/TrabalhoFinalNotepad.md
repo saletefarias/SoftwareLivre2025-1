@@ -16,4 +16,10 @@
 ## Produção de Conteúdo Audiovisual ou Série de Posts
 - Série de vídeos completa sobre Software Livre, em específico, o Notepad++ ([PlayList](https://www.youtube.com/playlist?list=PLhMtrrT7iMHPcMJyGsL-BQVHGa3vTee_I))
 
+## Roadmap
+- [ROADMAP](ROADMAP.md)
+
+## Carta aos Futuros Devs
+- [CARTA_LEGADO](CARTA_LEGADO.md)
+
 
