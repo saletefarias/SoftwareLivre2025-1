@@ -33,4 +33,7 @@
 - Resposta a uma pergunta no fórum oficial
 - [Link da interação](https://forums.raspberrypi.com/viewtopic.php?t=389212#p2322196)
 
-![alt text](https://github.com/Team-Two-Maker/pico-sdk-PT-BR-/blob/main/img/contribuicao_aprovada.png "print da interação")
+## ROADMAP e Carta Legado
+
+- [Link do RoadMap](https://github.com/Team-Two-Maker/pico-sdk-PT-BR-/blob/main/ROADMAP.md)
+- [Link da Carta Legado](https://github.com/Team-Two-Maker/pico-sdk-PT-BR-/blob/main/CARTA_LEGADO.md)
